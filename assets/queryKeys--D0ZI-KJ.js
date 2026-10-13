@@ -1,0 +1,2 @@
+var e={tenant:e=>[`tenant`,e],services:e=>[`tenant`,e,`services`],service:(e,t)=>[`tenant`,e,`services`,t],workPhotos:e=>[`tenant`,e,`work-photos`],myBookings:e=>[`tenant`,e,`my-bookings`],clientSession:[`client-session`],bookingByToken:e=>[`booking-by-token`,e]};export{e as t};
+//# sourceMappingURL=queryKeys--D0ZI-KJ.js.map

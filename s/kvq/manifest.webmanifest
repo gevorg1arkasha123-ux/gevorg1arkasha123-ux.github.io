@@ -1,0 +1,34 @@
+{
+  "id": "/s/kvq/",
+  "name": "Детейлинг-студия «KVQ»",
+  "short_name": "KVQ",
+  "description": "Мойка, полировка и защита кузова — бережно и в срок",
+  "start_url": "/s/kvq/",
+  "scope": "/s/kvq/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "ru",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/s/kvq/icon-192.png?v=149eafc5a33c",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/kvq/icon-512.png?v=149eafc5a33c",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/s/kvq/icon-maskable-512.png?v=149eafc5a33c",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

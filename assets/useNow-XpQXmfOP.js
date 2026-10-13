@@ -1,0 +1,2 @@
+import{i as e,n as t}from"./jsx-runtime-Dk72oS4N.js";var n=e(t(),1),r=new Date,i=6e4;function a(e=i){let[t,a]=(0,n.useState)(r);return(0,n.useEffect)(()=>{let t=setInterval(()=>{a(new Date)},e);return()=>{clearInterval(t)}},[e]),t}export{a as t};
+//# sourceMappingURL=useNow-XpQXmfOP.js.map

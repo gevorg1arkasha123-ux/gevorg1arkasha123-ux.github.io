@@ -1,0 +1,2 @@
+var e=[{key:`example-body`,url:`/assets/body-side-v2-B_lfBbkL.webp`,caption:`Детали кузова`,example:!0},{key:`example-hood-optics`,url:`/assets/hood-optics-v3-C3SaJObL.webp`,caption:`Капот и оптика`,example:!0},{key:`example-overall`,url:`/assets/overall-front-v4-DU6PDNfk.webp`,caption:`Общий вид`,example:!0}];export{e as t};
+//# sourceMappingURL=examples-BO7CdOsE.js.map

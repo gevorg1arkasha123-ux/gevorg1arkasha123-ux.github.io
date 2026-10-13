@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{n as t,t as n}from"./bookingStatus-BTgDpfC8.js";var r=e();function i({status:e}){return(0,r.jsx)(`span`,{className:`inline-flex rounded-full px-3 py-1 text-sm font-semibold ${t[e]}`,children:n[e]})}export{i as t};
+//# sourceMappingURL=BookingStatusLabel-sG-_cl_K.js.map

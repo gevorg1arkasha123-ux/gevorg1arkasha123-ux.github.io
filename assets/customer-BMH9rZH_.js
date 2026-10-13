@@ -1,0 +1,2 @@
+import{U as e,z as t}from"./client-COTe8pZe.js";import{n}from"./phone-Dv3rQs6Q.js";var r=t().trim().min(2,`Имя должно содержать хотя бы 2 символа`).max(60,`Имя слишком длинное`).regex(/^[А-Яа-яЁёA-Za-z][А-Яа-яЁёA-Za-z\s'’-]*$/u,`Имя может содержать только буквы, пробел, дефис и апостроф`),i=t().transform((t,r)=>{let i=n(t);return i===null?(r.addIssue({code:`custom`,message:`Введите номер в формате +7 999 123-45-67`}),e):i}),a=t().trim().max(120,`Слишком длинное описание`);export{i as n,a as r,r as t};
+//# sourceMappingURL=customer-BMH9rZH_.js.map

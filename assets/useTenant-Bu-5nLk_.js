@@ -1,0 +1,2 @@
+import{i as e,n as t}from"./jsx-runtime-Dk72oS4N.js";var n=e(t(),1),r=(0,n.createContext)(null);function i(){let e=(0,n.useContext)(r);if(e===null)throw Error(`useTenant must be used inside <TenantProvider>`);return e}export{r as n,i as t};
+//# sourceMappingURL=useTenant-Bu-5nLk_.js.map

@@ -1,0 +1,2 @@
+function e(e){let[t,n,r]=e.split(`-`);return new Date(Number(t),Number(n)-1,Number(r))}var t=new Intl.DateTimeFormat(`ru-RU`,{weekday:`short`});new Intl.DateTimeFormat(`ru-RU`,{day:`numeric`,month:`long`});var n=new Intl.DateTimeFormat(`ru-RU`,{weekday:`long`,day:`numeric`,month:`long`});function r(n){return t.format(e(n))}function i(t){return String(e(t).getDate())}function a(t){return n.format(e(t))}export{a as n,r,i as t};
+//# sourceMappingURL=dateFormat-B1yOBlHe.js.map

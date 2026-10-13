@@ -1,0 +1,2 @@
+function e(e){let t=e.replace(/\s|\u00A0/g,``).replace(`,`,`.`);if(t===``||!/^\d+(\.\d{1,2})?$/.test(t))return null;let[n,r=``]=t.split(`.`),i=Number(n),a=Number(r.padEnd(2,`0`)),o=i*100+a;return o<=0||o>1e8?null:o}function t(e){let t=Math.floor(e/100),n=e%100,r=new Intl.NumberFormat(`ru-RU`).format(t);return n===0?`${r} ₽`:`${r},${String(n).padStart(2,`0`)} ₽`}export{e as n,t};
+//# sourceMappingURL=money-jnC6FVOZ.js.map

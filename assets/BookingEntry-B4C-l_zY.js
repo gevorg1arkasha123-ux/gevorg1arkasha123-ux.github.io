@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{l as t,n}from"./paths-CyylDg7g.js";import{t as r}from"./useBookingFlow-BfQkoqJ2.js";var i=e();function a(){let{draft:e}=r();return(0,i.jsx)(t,{to:n(e.serviceSlug,`date`),replace:!0})}export{a as BookingEntry};
+//# sourceMappingURL=BookingEntry-B4C-l_zY.js.map

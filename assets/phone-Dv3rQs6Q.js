@@ -1,0 +1,2 @@
+function e(e){let t=e.replace(/\D/g,``),n;if(t.length===10)n=t;else if(t.length===11){let e=t.slice(0,1);if(e!==`7`&&e!==`8`)return null;n=t.slice(1)}else return null;return n.length===10?`+7${n}`:null}function t(e){let t=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})$/.exec(e);if(t===null)return e;let[,n,r,i,a]=t;return`+7 (${String(n)}) ${String(r)}-${String(i)}-${String(a)}`}export{e as n,t};
+//# sourceMappingURL=phone-Dv3rQs6Q.js.map

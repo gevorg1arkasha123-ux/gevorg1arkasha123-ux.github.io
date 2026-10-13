@@ -1,0 +1,2 @@
+import{i as e,n as t}from"./jsx-runtime-Dk72oS4N.js";import{t as n}from"./BookingFlowContext-xnV-Cfq6.js";var r=e(t(),1);function i(){let e=(0,r.useContext)(n);if(e===null)throw Error(`useBookingFlow must be used inside <BookingFlowProvider>`);return e}export{i as t};
+//# sourceMappingURL=useBookingFlow-BfQkoqJ2.js.map

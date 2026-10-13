@@ -1,0 +1,2 @@
+var e={pending:`Ожидает подтверждения`,confirmed:`Подтверждена`,accepted:`Автомобиль принят`,ready:`Готов к выдаче`,completed:`Завершена`,cancelled:`Отменена`},t={pending:`bg-muted text-muted-foreground`,confirmed:`bg-success/15 text-success`,accepted:`bg-muted text-foreground`,ready:`bg-success/15 text-success`,completed:`bg-muted text-muted-foreground`,cancelled:`bg-destructive/10 text-destructive`};function n(e){return e===`pending`||e===`confirmed`}export{t as n,n as r,e as t};
+//# sourceMappingURL=bookingStatus-BTgDpfC8.js.map
